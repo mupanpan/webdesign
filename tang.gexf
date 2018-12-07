@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-12-07">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="汤显祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.1674223" y="0.8652438"></viz:position>
+      </node>
+      <node id="2" label="陈于陛">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-262.42883" y="109.54456"></viz:position>
+      </node>
+      <node id="3" label="戴洵">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.33984" y="-143.35915"></viz:position>
+      </node>
+      <node id="4" label="冯梦祯">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.542" y="475.13525"></viz:position>
+      </node>
+      <node id="5" label="顾宪成">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="304.4037" y="-79.82076"></viz:position>
+      </node>
+      <node id="6" label="顾允成">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.696" y="-412.01123"></viz:position>
+      </node>
+      <node id="7" label="胡桂芳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.50763" y="87.94233"></viz:position>
+      </node>
+      <node id="8" label="胡应麟">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-77.08243" y="276.95264"></viz:position>
+      </node>
+      <node id="9" label="姜士昌">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.58167" y="-108.9894"></viz:position>
+      </node>
+      <node id="10" label="李维桢">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-512.2556" y="379.70795"></viz:position>
+      </node>
+      <node id="11" label="李贽">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-28.995235" y="-353.80173"></viz:position>
+      </node>
+      <node id="12" label="刘应秋">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.656246" y="-361.25748"></viz:position>
+      </node>
+      <node id="13" label="龙宗武">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.22302" y="342.61987"></viz:position>
+      </node>
+      <node id="14" label="罗汝芳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-150.85544" y="35.305733"></viz:position>
+      </node>
+      <node id="15" label="梅鼎祚">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="198.67029" y="436.59076"></viz:position>
+      </node>
+      <node id="16" label="欧大任">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="175.63727" y="-7.4722195"></viz:position>
+      </node>
+      <node id="17" label="申时行">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-259.3159" y="252.15742"></viz:position>
+      </node>
+      <node id="18" label="沈思孝">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.30444" y="-456.0746"></viz:position>
+      </node>
+      <node id="19" label="谭纶">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="273.23138" y="-259.78214"></viz:position>
+      </node>
+      <node id="20" label="汤凤祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="311.2381" y="259.80505"></viz:position>
+      </node>
+      <node id="21" label="汤会祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.834656" y="-63.89321"></viz:position>
+      </node>
+      <node id="22" label="汤良祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="331.36487" y="451.61328"></viz:position>
+      </node>
+      <node id="23" label="汤儒祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-512.2878" y="-426.31708"></viz:position>
+      </node>
+      <node id="24" label="汤尚贤">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-400.5688" y="-66.9262"></viz:position>
+      </node>
+      <node id="25" label="屠隆">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.4856" y="-36.627983"></viz:position>
+      </node>
+      <node id="26" label="王弘诲">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-533.62775" y="406.9892"></viz:position>
+      </node>
+      <node id="27" label="王汝训">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.3416" y="422.28076"></viz:position>
+      </node>
+      <node id="28" label="王世懋">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-327.58112" y="367.87488"></viz:position>
+      </node>
+      <node id="29" label="汪镗">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="239.33484" y="256.41364"></viz:position>
+      </node>
+      <node id="30" label="谢杰">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.27197" y="263.1305"></viz:position>
+      </node>
+      <node id="31" label="虞淳熙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.114994" y="-461.81445"></viz:position>
+      </node>
+      <node id="32" label="余有丁">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="239.89893" y="-460.7539"></viz:position>
+      </node>
+      <node id="33" label="袁应祺">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="66.2193" y="-303.1595"></viz:position>
+      </node>
+      <node id="34" label="张居正">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.98615" y="114.575264"></viz:position>
+      </node>
+      <node id="35" label="张四维">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.16754" y="245.0478"></viz:position>
+      </node>
+      <node id="36" label="张位">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-160.1943" y="-233.49947"></viz:position>
+      </node>
+      <node id="37" label="赵南星">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.04788" y="-198.13673"></viz:position>
+      </node>
+      <node id="38" label="赵用贤">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.76813" y="-101.64788"></viz:position>
+      </node>
+      <node id="39" label="朱长春">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="306.11493" y="-59.593834"></viz:position>
+      </node>
+      <node id="40" label="邹元标">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="265.87012" y="160.23335"></viz:position>
+      </node>
+      <node id="41" label="臧懋循">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="257.45557" y="288.0163"></viz:position>
+      </node>
+      <node id="42" label="李化龙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.2634" y="437.9414"></viz:position>
+      </node>
+      <node id="43" label="张凤翼">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="378.5171" y="-262.6793"></viz:position>
+      </node>
+      <node id="44" label="张献翼">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-480.34564" y="-204.5353"></viz:position>
+      </node>
+      <node id="45" label="彭兴祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="383.34534" y="-411.44675"></viz:position>
+      </node>
+      <node id="46" label="钱希言">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.4932" y="59.075203"></viz:position>
+      </node>
+      <node id="47" label="顾大章">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.37775" y="-63.366966"></viz:position>
+      </node>
+      <node id="48" label="钱谦益">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="384.71844" y="-135.17674"></viz:position>
+      </node>
+      <node id="49" label="刘芳誉">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.87732" y="-359.07593"></viz:position>
+      </node>
+      <node id="50" label="钟宗望">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.19394" y="156.28206"></viz:position>
+      </node>
+      <node id="51" label="叶向高">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="334.54663" y="-228.7393"></viz:position>
+      </node>
+      <node id="52" label="陈邦瞻">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.426144" y="315.6781"></viz:position>
+      </node>
+      <node id="53" label="刘天虞">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.86877155" y="-489.262"></viz:position>
+      </node>
+      <node id="54" label="袁宏道">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="348.49866" y="339.08203"></viz:position>
+      </node>
+      <node id="55" label="袁宗道">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-176.95337" y="113.93122"></viz:position>
+      </node>
+      <node id="56" label="袁中道">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-175.91855" y="-274.87555"></viz:position>
+      </node>
+      <node id="57" label="马犹龙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="345.43353" y="-331.37982"></viz:position>
+      </node>
+      <node id="58" label="王一鸣">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="241.41553" y="36.73957"></viz:position>
+      </node>
+      <node id="59" label="石昆玉">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.96054" y="89.76234"></viz:position>
+      </node>
+      <node id="60" label="乐石帆">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-544.0506" y="416.72937"></viz:position>
+      </node>
+      <node id="61" label="岳元声">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.23526" y="-13.632681"></viz:position>
+      </node>
+      <node id="62" label="何晓">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-255.60165" y="-309.52087"></viz:position>
+      </node>
+      <node id="63" label="李至清">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.0287" y="-214.90501"></viz:position>
+      </node>
+      <node id="64" label="谢廷谅">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="379.98694" y="72.94459"></viz:position>
+      </node>
+      <node id="65" label="高应芳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.28085" y="-231.19102"></viz:position>
+      </node>
+      <node id="66" label="郭惟贤">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.3224" y="-87.92895"></viz:position>
+      </node>
+      <node id="67" label="张大复">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-420.40942" y="493.9843"></viz:position>
+      </node>
+      <node id="68" label="曾如春">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.771792" y="347.09143"></viz:position>
+      </node>
+      <node id="69" label="周宗镐">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="270.32544" y="387.78064"></viz:position>
+      </node>
+      <node id="70" label="帅机">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="328.2422" y="237.6927"></viz:position>
+      </node>
+      <node id="71" label="徐良傅">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.078" y="193.75655"></viz:position>
+      </node>
+      <node id="72" label="丘兆麟">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="31.385136" y="228.82509"></viz:position>
+      </node>
+      <node id="73" label="汤维岳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-383.83185" y="334.61523"></viz:position>
+      </node>
+      <node id="74" label="周弘祖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-541.14484" y="355.9721"></viz:position>
+      </node>
+      <node id="75" label="朱尔玉">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="88.697754" y="191.03603"></viz:position>
+      </node>
+      <node id="76" label="祝世禄">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.87299" y="166.98409"></viz:position>
+      </node>
+      <node id="77" label="袁世振">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.20996" y="-242.44179"></viz:position>
+      </node>
+      <node id="78" label="黄汝亨">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="400.3736" y="-60.879875"></viz:position>
+      </node>
+      <node id="79" label="卓发之">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.8825655" y="129.65077"></viz:position>
+      </node>
+      <node id="80" label="王思任">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.91226" y="203.73128"></viz:position>
+      </node>
+      <node id="81" label="张汝霖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.527462" y="-199.48625"></viz:position>
+      </node>
+      <node id="82" label="陆梦龙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.02692" y="456.05658"></viz:position>
+      </node>
+      <node id="83" label="叶干">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-505.2411" y="-198.17924"></viz:position>
+      </node>
+      <node id="84" label="李三才">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.56812" y="-376.10736"></viz:position>
+      </node>
+      <node id="85" label="达观禅师">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="325.73108" y="309.52777"></viz:position>
+      </node>
+      <node id="86" label="高攀龙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="136.31183" y="-403.56198"></viz:position>
+      </node>
+      <node id="87" label="邹迪光">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="131.93341" y="454.03662"></viz:position>
+      </node>
+      <node id="88" label="张师绎">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="103.11261" y="-126.60015"></viz:position>
+      </node>
+      <node id="89" label="汪应蛟">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.62045" y="-276.58612"></viz:position>
+      </node>
+      <node id="90" label="丁此吕">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-462.84128" y="184.49226"></viz:position>
+      </node>
+      <node id="91" label="汤宾尹">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-113.02435" y="-470.96533"></viz:position>
+      </node>
+      <node id="92" label="张岳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="90.703186" y="-249.25671"></viz:position>
+      </node>
+      <node id="93" label="吕胤昌">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.37744" y="214.92842"></viz:position>
+      </node>
+      <node id="94" label="孙如法">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.97357" y="-288.43378"></viz:position>
+      </node>
+      <node id="95" label="董裕">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-533.4674" y="35.274117"></viz:position>
+      </node>
+      <node id="96" label="徐学谟">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.56479" y="125.34162"></viz:position>
+      </node>
+      <node id="97" label="王世贞">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="379.14996" y="398.9015"></viz:position>
+      </node>
+      <node id="98" label="沈懋学">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="270.5816" y="-133.70647"></viz:position>
+      </node>
+      <node id="99" label="王锡爵">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.16309" y="-14.677237"></viz:position>
+      </node>
+      <node id="100" label="张佳胤">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.10992" y="-313.266"></viz:position>
+      </node>
+      <node id="101" label="汪道昆">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="97.45087" y="173.72963"></viz:position>
+      </node>
+      <node id="102" label="赵氏(屠隆母)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.38168" y="-308.7119"></viz:position>
+      </node>
+      <node id="103" label="杨氏(屠隆妻)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.59503" y="-405.44168"></viz:position>
+      </node>
+      <node id="104" label="沈明臣">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.85403" y="478.50122"></viz:position>
+      </node>
+      <node id="105" label="刘应箕">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-39.077267" y="-487.36365"></viz:position>
+      </node>
+      <node id="106" label="王穉登">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-72.12445" y="245.26955"></viz:position>
+      </node>
+      <node id="107" label="屠本畯">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.53424" y="181.59023"></viz:position>
+      </node>
+      <node id="108" label="李惟寅">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.5341" y="220.82246"></viz:position>
+      </node>
+      <node id="109" label="傅光宅">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="216.93256" y="271.10742"></viz:position>
+      </node>
+      <node id="110" label="梁辰鱼">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.4068" y="-100.47274"></viz:position>
+      </node>
+      <node id="111" label="陈文烛">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="335.69293" y="-38.190727"></viz:position>
+      </node>
+      <node id="112" label="陈思进">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="165.01404" y="-324.42722"></viz:position>
+      </node>
+      <node id="113" label="龙膺">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="76.985596" y="326.9062"></viz:position>
+      </node>
+      <node id="114" label="宋世恩">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.160034" y="-352.37097"></viz:position>
+      </node>
+      <node id="115" label="唐长孺">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.98022" y="175.47072"></viz:position>
+      </node>
+      <node id="116" label="万世德">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="324.56177" y="-442.13052"></viz:position>
+      </node>
+      <node id="117" label="王衡">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.841672" y="-380.92365"></viz:position>
+      </node>
+      <node id="118" label="江盈科">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.42297" y="57.280403"></viz:position>
+      </node>
+      <node id="119" label="周履靖">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-293.73334" y="241.71773"></viz:position>
+      </node>
+      <node id="120" label="茅维">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="356.45715" y="-252.02846"></viz:position>
+      </node>
+      <node id="121" label="谢肇淛">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="335.95203" y="-97.66296"></viz:position>
+      </node>
+      <node id="122" label="陈与郊">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.7904" y="-256.7586"></viz:position>
+      </node>
+      <node id="123" label="王百谷">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.28345" y="-120.04955"></viz:position>
+      </node>
+      <node id="124" label="许自昌">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="33.974064" y="-192.56047"></viz:position>
+      </node>
+      <node id="125" label="曹学佺">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.722904" y="283.2779"></viz:position>
+      </node>
+      <node id="126" label="贺灿然">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.309574" y="490.20642"></viz:position>
+      </node>
+      <node id="127" label="汪道贯">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.29395" y="389.94794"></viz:position>
+      </node>
+      <node id="128" label="吴氏(妻)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="183.91803" y="53.46235"></viz:position>
+      </node>
+      <node id="129" label="吴氏(继室)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.15515" y="-145.24062"></viz:position>
+      </node>
+      <node id="130" label="蒋氏(三娶)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-440.53943" y="404.55383"></viz:position>
+      </node>
+      <node id="131" label="吴国伦">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-483.1325" y="-467.85123"></viz:position>
+      </node>
+      <node id="132" label="戚继光">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-365.8553" y="-304.74356"></viz:position>
+      </node>
+      <node id="133" label="王寅">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-458.23828" y="-5.0750637"></viz:position>
+      </node>
+      <node id="134" label="李攀龙">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.37335" y="-276.12836"></viz:position>
+      </node>
+      <node id="135" label="吴维岳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="111.188416" y="-300.50378"></viz:position>
+      </node>
+      <node id="136" label="周天球">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.64679" y="-213.55598"></viz:position>
+      </node>
+      <node id="137" label="高濂">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-267.91486" y="147.23116"></viz:position>
+      </node>
+      <node id="138" label="潘恩">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.71228" y="163.16487"></viz:position>
+      </node>
+      <node id="139" label="王畿">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="402.48096" y="322.25513"></viz:position>
+      </node>
+      <node id="140" label="僧大安">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="428.86664" y="-2.6834624"></viz:position>
+      </node>
+      <node id="141" label="吴百朋">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="185.89337" y="147.9026"></viz:position>
+      </node>
+      <node id="142" label="邵培">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="211.56378" y="-73.34835"></viz:position>
+      </node>
+      <node id="143" label="王京">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.282658" y="-302.79425"></viz:position>
+      </node>
+      <node id="145" label="卓明卿">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-414.11044" y="460.88983"></viz:position>
+      </node>
+      <node id="146" label="潘之恒">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.611446" y="417.21655"></viz:position>
+      </node>
+      <node id="147" label="胡汝焕">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.14984" y="-235.946"></viz:position>
+      </node>
+      <node id="148" label="王一鹗">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.37592" y="-317.37827"></viz:position>
+      </node>
+      <node id="149" label="汪无择(儿)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.82452" y="196.657"></viz:position>
+      </node>
+      <node id="150" label="丁应泰">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.0683" y="-418.97458"></viz:position>
+      </node>
+      <node id="151" label="许国">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-131.94128" y="-299.711"></viz:position>
+      </node>
+      <node id="152" label="汪无竞(季子)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-522.35004" y="-49.56231"></viz:position>
+      </node>
+      <node id="153" label="王士祺">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="113.48352" y="-134.05525"></viz:position>
+      </node>
+      <node id="154" label="聂桂芳">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="192.56702" y="338.92133"></viz:position>
+      </node>
+      <node id="155" label="董石">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="351.26355" y="317.46783"></viz:position>
+      </node>
+      <node id="156" label="郑兆芝">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.461613" y="-262.98688"></viz:position>
+      </node>
+      <node id="157" label="胡宗宪">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.64777" y="-137.21892"></viz:position>
+      </node>
+      <node id="158" label="吴氏(祖母)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.6756" y="-354.54938"></viz:position>
+      </node>
+      <node id="159" label="汪良彬(父)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-514.67834" y="-281.89255"></viz:position>
+      </node>
+      <node id="160" label="胡氏(母)">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.34973" y="283.89868"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="1" target="2"></edge>
+      <edge id="2" source="1" target="3"></edge>
+      <edge id="3" source="1" target="4"></edge>
+      <edge id="4" source="1" target="5"></edge>
+      <edge id="5" source="1" target="6"></edge>
+      <edge id="6" source="1" target="7"></edge>
+      <edge id="7" source="1" target="8"></edge>
+      <edge id="8" source="1" target="9"></edge>
+      <edge id="9" source="1" target="10"></edge>
+      <edge id="10" source="1" target="11"></edge>
+      <edge id="11" source="1" target="12"></edge>
+      <edge id="12" source="1" target="13"></edge>
+      <edge id="13" source="1" target="14"></edge>
+      <edge id="14" source="1" target="15"></edge>
+      <edge id="15" source="1" target="16"></edge>
+      <edge id="17" source="1" target="17"></edge>
+      <edge id="18" source="1" target="18"></edge>
+      <edge id="19" source="1" target="19"></edge>
+      <edge id="20" source="1" target="20"></edge>
+      <edge id="21" source="1" target="21"></edge>
+      <edge id="22" source="1" target="22"></edge>
+      <edge id="23" source="1" target="23"></edge>
+      <edge id="24" source="1" target="24"></edge>
+      <edge id="25" source="1" target="25" weight="2.0"></edge>
+      <edge id="26" source="1" target="26"></edge>
+      <edge id="27" source="1" target="27"></edge>
+      <edge id="28" source="1" target="28"></edge>
+      <edge id="29" source="1" target="29"></edge>
+      <edge id="30" source="1" target="30"></edge>
+      <edge id="31" source="1" target="31"></edge>
+      <edge id="32" source="1" target="32"></edge>
+      <edge id="33" source="1" target="33"></edge>
+      <edge id="34" source="1" target="34"></edge>
+      <edge id="35" source="1" target="35"></edge>
+      <edge id="36" source="1" target="36"></edge>
+      <edge id="37" source="1" target="37"></edge>
+      <edge id="38" source="1" target="38"></edge>
+      <edge id="39" source="1" target="39"></edge>
+      <edge id="40" source="1" target="40"></edge>
+      <edge id="41" source="1" target="41"></edge>
+      <edge id="42" source="1" target="42"></edge>
+      <edge id="43" source="1" target="43"></edge>
+      <edge id="44" source="1" target="44"></edge>
+      <edge id="45" source="1" target="45"></edge>
+      <edge id="46" source="1" target="46"></edge>
+      <edge id="47" source="1" target="47"></edge>
+      <edge id="48" source="1" target="48"></edge>
+      <edge id="49" source="1" target="49"></edge>
+      <edge id="50" source="1" target="50"></edge>
+      <edge id="51" source="1" target="51"></edge>
+      <edge id="52" source="1" target="52"></edge>
+      <edge id="53" source="1" target="53"></edge>
+      <edge id="54" source="1" target="54"></edge>
+      <edge id="55" source="1" target="55"></edge>
+      <edge id="56" source="1" target="56"></edge>
+      <edge id="57" source="1" target="57"></edge>
+      <edge id="58" source="1" target="58"></edge>
+      <edge id="59" source="1" target="59"></edge>
+      <edge id="60" source="1" target="60"></edge>
+      <edge id="61" source="1" target="61"></edge>
+      <edge id="62" source="1" target="62"></edge>
+      <edge id="63" source="1" target="63"></edge>
+      <edge id="64" source="1" target="64"></edge>
+      <edge id="65" source="1" target="65"></edge>
+      <edge id="66" source="1" target="66"></edge>
+      <edge id="67" source="1" target="67"></edge>
+      <edge id="68" source="1" target="68"></edge>
+      <edge id="69" source="1" target="69"></edge>
+      <edge id="70" source="1" target="70"></edge>
+      <edge id="71" source="1" target="71"></edge>
+      <edge id="72" source="1" target="72"></edge>
+      <edge id="73" source="1" target="73"></edge>
+      <edge id="74" source="1" target="74"></edge>
+      <edge id="75" source="1" target="75"></edge>
+      <edge id="76" source="1" target="76"></edge>
+      <edge id="77" source="1" target="77"></edge>
+      <edge id="78" source="1" target="78"></edge>
+      <edge id="79" source="1" target="79"></edge>
+      <edge id="80" source="1" target="80"></edge>
+      <edge id="81" source="1" target="81"></edge>
+      <edge id="82" source="1" target="82"></edge>
+      <edge id="83" source="1" target="83"></edge>
+      <edge id="84" source="1" target="84"></edge>
+      <edge id="85" source="1" target="85"></edge>
+      <edge id="86" source="1" target="86"></edge>
+      <edge id="87" source="1" target="87"></edge>
+      <edge id="88" source="1" target="88"></edge>
+      <edge id="89" source="1" target="89"></edge>
+      <edge id="90" source="1" target="90"></edge>
+      <edge id="91" source="1" target="91"></edge>
+      <edge id="92" source="1" target="92"></edge>
+      <edge id="93" source="1" target="93"></edge>
+      <edge id="94" source="1" target="94"></edge>
+      <edge id="95" source="1" target="95"></edge>
+      <edge id="96" source="1" target="101"></edge>
+      <edge id="97" source="25" target="4"></edge>
+      <edge id="98" source="25" target="96"></edge>
+      <edge id="99" source="25" target="97"></edge>
+      <edge id="100" source="25" target="39"></edge>
+      <edge id="101" source="25" target="95"></edge>
+      <edge id="102" source="25" target="99"></edge>
+      <edge id="103" source="25" target="100"></edge>
+      <edge id="104" source="25" target="113" weight="2.0"></edge>
+      <edge id="105" source="25" target="9"></edge>
+      <edge id="106" source="25" target="15"></edge>
+      <edge id="107" source="25" target="102"></edge>
+      <edge id="108" source="25" target="103"></edge>
+      <edge id="109" source="25" target="104"></edge>
+      <edge id="110" source="25" target="105"></edge>
+      <edge id="111" source="25" target="42"></edge>
+      <edge id="112" source="25" target="106"></edge>
+      <edge id="113" source="25" target="107"></edge>
+      <edge id="114" source="25" target="108"></edge>
+      <edge id="115" source="25" target="109"></edge>
+      <edge id="116" source="25" target="110"></edge>
+      <edge id="117" source="25" target="111"></edge>
+      <edge id="118" source="25" target="8"></edge>
+      <edge id="119" source="25" target="112"></edge>
+      <edge id="122" source="25" target="114"></edge>
+      <edge id="123" source="25" target="115"></edge>
+      <edge id="124" source="25" target="30"></edge>
+      <edge id="125" source="25" target="86"></edge>
+      <edge id="126" source="25" target="116"></edge>
+      <edge id="127" source="25" target="117"></edge>
+      <edge id="128" source="25" target="118"></edge>
+      <edge id="129" source="25" target="89"></edge>
+      <edge id="130" source="25" target="119"></edge>
+      <edge id="131" source="25" target="45"></edge>
+      <edge id="16" source="101" target="133"></edge>
+    </edges>
+  </graph>
+</gexf>
